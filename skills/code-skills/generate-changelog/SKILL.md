@@ -2,7 +2,7 @@
 name: generate-changelog
 description: Generate a structured changelog using multiple agents working in parallel to analyze git history and write release notes.
 metadata:
-  version: "1.1"
+  version: "1.2"
 ---
 
 # Generate Changelog

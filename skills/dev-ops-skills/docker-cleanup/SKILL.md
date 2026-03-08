@@ -2,7 +2,7 @@
 name: docker-cleanup
 description: Remove unused Docker containers, images, and volumes to free up disk space.
 metadata:
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Docker Cleanup
